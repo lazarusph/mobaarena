@@ -3,7 +3,7 @@
   "enabled": false,
   "version_code": 2,
   "version_name": "1.1",
-  "force_update": false,
+  "force_update": true,
   "title": "New update available!",
   "message": "May bagong version ng Moba Arena. Update na para sa latest improvements at fixes.",
   "update_url": ""
