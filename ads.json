@@ -3,5 +3,5 @@
   "banner_enabled": true,
   "app_open_enabled": true,
   "rewarded_enabled": true,
-  "test_ads": true
+  "test_ads": false
 }
